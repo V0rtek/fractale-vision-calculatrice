@@ -54,7 +54,7 @@ export default function Home() {
                   {row.map((button) => (
                     <button 
                       key={button} 
-                      className="w-12 sm:w-16 py-2 m-1 text-sm font-semibold text-white bg-blue-500 rounded hover:bg-blue-600"
+                      className="w-14 py-2 m-1 text-sm font-semibold text-white bg-blue-500 rounded hover:bg-blue-600"
                       onClick={() => handleButtonPress(button)}
                     >
                       {button}
