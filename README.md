@@ -26,7 +26,13 @@ npm run dev
 4. **Voir le projet** :  
 Aller à l'adresse [http://localhost:3000](http://localhost:3000).
 
+## Test
+```bash
+npm run test
+```
+
 ## Sources
 * Basé sur le modèle de base d'application Next.js
 * Pour la partie responsive: https://tailwindcss.com/docs/responsive-design
-* [https://chatgpt.com/](ChatGPT) à été utilisé aux endroits marqués par des commentaires dans le code.
+* [ChatGPT](https://chatgpt.com/) à été utilisé aux endroits marqués par des commentaires dans le code.
+* Référence pour l'installation de jest: https://nextjs.org/docs/app/building-your-application/testing/jest
