@@ -27,4 +27,6 @@ npm run dev
 Aller à l'adresse [http://localhost:3000](http://localhost:3000).
 
 ## Sources
-* https://tailwindcss.com/docs/responsive-design
+* Basé sur le modèle de base d'application Next.js
+* Pour la partie responsive: https://tailwindcss.com/docs/responsive-design
+* [https://chatgpt.com/](ChatGPT) à été utilisé aux endroits marqués par des commentaires dans le code.
