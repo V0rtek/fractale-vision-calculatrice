@@ -34,7 +34,7 @@ export default function Home() {
 
   // Source pour la partie adaptive: https://tailwindcss.com/docs/responsive-design
   return (
-    <div className="grid bg-gray-950 grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20 font-[family-name:var(--font-geist-sans)]">
+    <div className="grid bg-gray-950 grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20">
       <main className="flex flex-col gap-8 row-start-2 items-center sm:items-start">
       <div className="text-xl w-full font-bold uppercase text-blue-500 text-center">Calculatrice Fractale Vision</div>
       <div className="mx-auto max-w-md overflow-hidden rounded-xl bg-white shadow-md md:max-w-2xl">

@@ -26,7 +26,8 @@ npm run dev
 4. **Voir le projet** :  
 Aller à l'adresse [http://localhost:3000](http://localhost:3000).
 
-## Test
+### Test
+Lancer les tests:
 ```bash
 npm run test
 ```
